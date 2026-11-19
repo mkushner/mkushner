@@ -8,8 +8,9 @@ Co-founder at [Playbook](https://playbook.com), the agentic-first media backend,
 
 ### Selected work
 
-- **[revenue-triage](https://github.com/mkushner/revenue-triage)**: Stripe failed-payment triage for Slack. It pings only when an invoice needs a person.
-- **Writing**: MCP telemetry with PostHog, [part 1](https://unglamorous.systems/writing/mcp-telemetry-part-1/) and [part 2](https://unglamorous.systems/writing/mcp-telemetry-part-2/).
+- **[revenue-triage](https://github.com/mkushner/revenue-triage)**: Stripe failed-payment triage for Slack. It pings only when an invoice needs a person;
+- **[inboxmux]**: A self-hosted remote MCP server that puts many mailboxes behind one connector;
+- **Writing**: MCP telemetry with PostHog, [part 1](https://unglamorous.systems/writing/mcp-telemetry-part-1/) and [part 2](https://unglamorous.systems/writing/mcp-telemetry-part-2/);
 - **Demo**: AI Tinkerers Lisbon × PostHog Demo Night, Sep 2026. A loop that drafts MCP server fixes from production analytics.
 
 ### Before Playbook
